@@ -1,0 +1,7 @@
+#Mon Jun 11 21:26:47 WITA 2018
+base.0=/Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/build/intermediates/transforms/dexMerger/debug/26
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/build/intermediates/transforms/dexMerger/debug/27

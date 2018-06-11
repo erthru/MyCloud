@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [pub.devrel:easypermissions:1.2.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/15c6468da65780a475b2c993ff06146a/AndroidManifest.xml:2:1-19:12
+MERGED from [com.nbsp:library:1.8] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/d9f68047ba1f67b59e1163cebf6821e7/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:design:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/5a8e15cac72504bf2bd94019f3598dcd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a1f80955f7f16a85baba395fec9173c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/77e124d6d117a54e7af02a2cfc69d214/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f66133754fdc80bfb1720157e745fcc6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/5cec4907b5275e74b867921f93b36888/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mindorks.android:prdownloader:0.4.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/prdownloader-0.4.0.aar/a01a91ad0bc14a1410345d140ba13462/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9544584fdd1da96ce1aa189c0ed2217c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/85a659b970db848b45ca72ba6404ae19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/28d568f2b3b7d25d2504758c34c7c11c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/cc88d36e35dbbc3ad1a066064c998991/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7853ed0de0655f6170d259e9e2163ff8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1b5fcc54f88baa2b9121e7c75628d256/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/04d4355a091753f21dcea3d997e647e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7b74b5158cd7c2844b393c5c072cb52c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/62dddbf00c648c055290baa1c37f728a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/565eb2fca7f053d61f3322269496dc51/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/07ffe9a2338a6d9e51d14fe35f324e6c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/31147ae80ac53ff87235c716c311a5f9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/83d3b5d67b9ec21ce65719a33503b616/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.nbsp:library:1.8] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/d9f68047ba1f67b59e1163cebf6821e7/AndroidManifest.xml:11:5-80
+MERGED from [com.nbsp:library:1.8] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/d9f68047ba1f67b59e1163cebf6821e7/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:9:5-24:19
+MERGED from [pub.devrel:easypermissions:1.2.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/15c6468da65780a475b2c993ff06146a/AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:1.2.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/15c6468da65780a475b2c993ff06146a/AndroidManifest.xml:11:5-17:19
+MERGED from [com.nbsp:library:1.8] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/d9f68047ba1f67b59e1163cebf6821e7/AndroidManifest.xml:13:5-18:19
+MERGED from [com.nbsp:library:1.8] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/d9f68047ba1f67b59e1163cebf6821e7/AndroidManifest.xml:13:5-18:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/77e124d6d117a54e7af02a2cfc69d214/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/77e124d6d117a54e7af02a2cfc69d214/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.bapercoding.mycloud.MainActivity
+ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.bapercoding.mycloud.UploadActivity
+ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:23:9-61
+	android:name
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml:23:19-49
+uses-sdk
+INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml
+INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml
+MERGED from [pub.devrel:easypermissions:1.2.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/15c6468da65780a475b2c993ff06146a/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:1.2.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/15c6468da65780a475b2c993ff06146a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.nbsp:library:1.8] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/d9f68047ba1f67b59e1163cebf6821e7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.nbsp:library:1.8] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/d9f68047ba1f67b59e1163cebf6821e7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/5a8e15cac72504bf2bd94019f3598dcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/5a8e15cac72504bf2bd94019f3598dcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a1f80955f7f16a85baba395fec9173c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a1f80955f7f16a85baba395fec9173c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/77e124d6d117a54e7af02a2cfc69d214/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/77e124d6d117a54e7af02a2cfc69d214/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f66133754fdc80bfb1720157e745fcc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f66133754fdc80bfb1720157e745fcc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/5cec4907b5275e74b867921f93b36888/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/5cec4907b5275e74b867921f93b36888/AndroidManifest.xml:20:5-44
+MERGED from [com.mindorks.android:prdownloader:0.4.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/prdownloader-0.4.0.aar/a01a91ad0bc14a1410345d140ba13462/AndroidManifest.xml:22:5-24:41
+MERGED from [com.mindorks.android:prdownloader:0.4.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/prdownloader-0.4.0.aar/a01a91ad0bc14a1410345d140ba13462/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9544584fdd1da96ce1aa189c0ed2217c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/9544584fdd1da96ce1aa189c0ed2217c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/85a659b970db848b45ca72ba6404ae19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/85a659b970db848b45ca72ba6404ae19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/28d568f2b3b7d25d2504758c34c7c11c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/28d568f2b3b7d25d2504758c34c7c11c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/cc88d36e35dbbc3ad1a066064c998991/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/cc88d36e35dbbc3ad1a066064c998991/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7853ed0de0655f6170d259e9e2163ff8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7853ed0de0655f6170d259e9e2163ff8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1b5fcc54f88baa2b9121e7c75628d256/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1b5fcc54f88baa2b9121e7c75628d256/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/04d4355a091753f21dcea3d997e647e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/04d4355a091753f21dcea3d997e647e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7b74b5158cd7c2844b393c5c072cb52c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7b74b5158cd7c2844b393c5c072cb52c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/62dddbf00c648c055290baa1c37f728a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/62dddbf00c648c055290baa1c37f728a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/565eb2fca7f053d61f3322269496dc51/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/565eb2fca7f053d61f3322269496dc51/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/07ffe9a2338a6d9e51d14fe35f324e6c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/07ffe9a2338a6d9e51d14fe35f324e6c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/31147ae80ac53ff87235c716c311a5f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/31147ae80ac53ff87235c716c311a5f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/83d3b5d67b9ec21ce65719a33503b616/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/83d3b5d67b9ec21ce65719a33503b616/AndroidManifest.xml:20:5-44
+INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml
+INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml
+		ADDED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/src/main/AndroidManifest.xml
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:1.2.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/15c6468da65780a475b2c993ff06146a/AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:1.2.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/15c6468da65780a475b2c993ff06146a/AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:1.2.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/15c6468da65780a475b2c993ff06146a/AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:1.2.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/15c6468da65780a475b2c993ff06146a/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:1.2.0] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/15c6468da65780a475b2c993ff06146a/AndroidManifest.xml:13:13-86
+activity#com.nbsp.materialfilepicker.ui.FilePickerActivity
+ADDED from [com.nbsp:library:1.8] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/d9f68047ba1f67b59e1163cebf6821e7/AndroidManifest.xml:14:9-17:20
+	android:theme
+		ADDED from [com.nbsp:library:1.8] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/d9f68047ba1f67b59e1163cebf6821e7/AndroidManifest.xml:16:13-49
+	android:name
+		ADDED from [com.nbsp:library:1.8] /Users/supriantodjamalu/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/d9f68047ba1f67b59e1163cebf6821e7/AndroidManifest.xml:15:13-77
