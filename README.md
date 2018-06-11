@@ -1,8 +1,7 @@
 # MyCloud
 Upload files using retrofit 2 + Kotlin
 
-<h3>DEMO</h3> <br />
-<br />
+<h3>DEMO</h3>
 Uploading File: <br />
 <img src='https://cdn.pbrd.co/images/HppscAS.gif' width='220' height='400'/>
 <br /><br />
