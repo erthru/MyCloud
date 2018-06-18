@@ -104,8 +104,8 @@ class UploadActivity : AppCompatActivity(),View.OnClickListener {
             lbNewFilename.text = "New File Name : "+txFilename.text.toString()+"."+txExtension.text.toString()
 
             val fileToUpload = data.getStringExtra(FilePickerActivity.RESULT_FILE_PATH)
-            val requestBody = RequestBody.create(MediaType.parse("multipart/form-data"),fileToUpload)
-            file = MultipartBody.Part.createFormData("file",fileToUpload,requestBody)
+            val requestBody = RequestBody.create(MediaType.parse("multipart/form-data"),File(fileToUpload))
+            file = MultipartBody.Part.createFormData("file",File(fileToUpload)?.name,requestBody)
 
         }
 

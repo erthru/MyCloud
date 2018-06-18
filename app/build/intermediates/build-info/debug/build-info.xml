@@ -6,26 +6,26 @@
     density="xhdpi"
     format="10"
     plugin-version="3.1.0"
-    timestamp="1528723603529"
+    timestamp="1529345498856"
     token="1527575230687306909"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="216" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="159" />
     <task
         name="verifier"
-        duration="0" />
+        duration="9" />
 
     <artifact
-        location="/Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-        type="SPLIT_MAIN" />
+        location="/Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
     <artifact
         location="/Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
         type="SPLIT" />
@@ -34,9 +34,6 @@
         type="SPLIT" />
     <artifact
         location="/Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
     <artifact
         location="/Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
@@ -59,14 +56,17 @@
     <artifact
         location="/Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
         type="SPLIT" />
+    <artifact
+        location="/Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1528723603529"
+        timestamp="1529345498856"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
-            type="SPLIT_MAIN" />
+            location="/Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
         <artifact
             location="/Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
@@ -75,9 +75,6 @@
             type="SPLIT" />
         <artifact
             location="/Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
             location="/Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
@@ -100,6 +97,9 @@
         <artifact
             location="/Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
+        <artifact
+            location="/Users/supriantodjamalu/iProject/AndroidStudioPJK/MyCloud/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
